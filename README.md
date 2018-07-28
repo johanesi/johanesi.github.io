@@ -8,4 +8,4 @@ Membuat website HTML CSS
 HTML 5 Native
 CSS
 Fontawesome
-Media
+Media Queries
